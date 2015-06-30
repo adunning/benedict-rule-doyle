@@ -1111,7 +1111,7 @@ And if the circumstances of the place or their poverty should require that they 
 Mar. 29—July 29—Nov. 28
 -----------------------
 
-From the Calends of October until the beginning of Lent, let them apply themselves to reading up to the end of the second hour. At the second hour let Terce be said, and then let all labor at the work assigned them until None. At the first signal for the Hour of None let everyone break off from his work, and hold himself ready for the sounding of the second signal. After the meal let them apply theemslves to their reading or to the Psalms.
+From the Calends of October until the beginning of Lent, let them apply themselves to reading up to the end of the second hour. At the second hour let Terce be said, and then let all labor at the work assigned them until None. At the first signal for the Hour of None let everyone break off from his work, and hold himself ready for the sounding of the second signal. After the meal let them apply themselves to their reading or to the Psalms.
 
 On the days of Lent, from morning until the end of the third hour let them apply themselves to their reading, and from then until the end of the tenth hour let them do the work assigned them. And in these days of Lent they shall each receive a book from [pg 69] the library, which they shall read straight through from the beginning. These books are to be given out at the beginning of Lent.
 
