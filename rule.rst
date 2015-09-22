@@ -5,11 +5,11 @@ St. Benedict’s Rule for Monasteries
 ===================================
 
 :PG.Title: St. Benedict’s Rule for Monasteries
-:PG.Id: 
-:PG.Released: 
+:PG.Id: 50040
+:PG.Released: 2015-11-22
 :PG.Rights: Public Domain
 :PG.Producer: Andrew Dunning
-:DC.Creator: Benedict
+:DC.Creator: Benedict of Nursia
 :MARCREL.trl: Leonard J. Doyle
 :DC.Title: St. Benedict’s Rule for Monasteries
 :DC.Language: en
@@ -82,9 +82,9 @@ TABLE OF CONTENTS
    :page-numbers:
    :backlinks: none
 
-.. mainmatter::
-
 .. cleardoublepage::
+
+[pg vii]
 
 .. container:: center white-space-pre-line
 
@@ -96,6 +96,8 @@ TABLE OF CONTENTS
     .. vfill::
 
 .. cleardoublepage::
+
+.. mainmatter::
 
 [pg 1]
 
@@ -1544,7 +1546,6 @@ Now we have written this Rule in order that by its observance in monasteries we 
 But for him who would hasten to the perfection of that life there are the teachings of the holy Fathers, the observance of which leads a man to the height of perfection. For what page or what utterance of the divinely inspired books of the Old and New Testaments is not a most unerring rule for human life? Or what book of the holy Catholic Fathers does not loudly proclaim how we may [pg 100] come by a straight course to our Creator? Then the Conferences and the Institutes and the Lives of the Fathers, as also the Rule of our holy Father Basil—what else are they but tools of virtue for right-living and obedient monks? But for us who are lazy and ill-living and negligent they are a source of shame and confusion.
 
 Whoever you are, therefore, who are hastening to the heavenly homeland, fulfil with the help of Christ this minimum Rule which we have written for beginners; and then at length under God’s protection you will attain to the loftier heights of doctrine and virtue which we have mentioned above.
-
 
 .. clearpage::
 
